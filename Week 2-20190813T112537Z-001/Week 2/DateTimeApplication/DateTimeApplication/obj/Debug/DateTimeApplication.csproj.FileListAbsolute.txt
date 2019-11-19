@@ -1,0 +1,6 @@
+D:\160905018\IT Lab\Week 2\DateTimeApplication\DateTimeApplication\bin\Debug\DateTimeApplication.exe.config
+D:\160905018\IT Lab\Week 2\DateTimeApplication\DateTimeApplication\bin\Debug\DateTimeApplication.exe
+D:\160905018\IT Lab\Week 2\DateTimeApplication\DateTimeApplication\bin\Debug\DateTimeApplication.pdb
+D:\160905018\IT Lab\Week 2\DateTimeApplication\DateTimeApplication\obj\Debug\DateTimeApplication.csprojResolveAssemblyReference.cache
+D:\160905018\IT Lab\Week 2\DateTimeApplication\DateTimeApplication\obj\Debug\DateTimeApplication.exe
+D:\160905018\IT Lab\Week 2\DateTimeApplication\DateTimeApplication\obj\Debug\DateTimeApplication.pdb

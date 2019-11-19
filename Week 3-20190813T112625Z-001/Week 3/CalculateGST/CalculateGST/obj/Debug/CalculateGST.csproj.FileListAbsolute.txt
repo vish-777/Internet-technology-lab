@@ -1,0 +1,5 @@
+D:\160905018\IT Lab\Week 3\CalculateGST\CalculateGST\bin\Debug\CalculateGST.exe.config
+D:\160905018\IT Lab\Week 3\CalculateGST\CalculateGST\bin\Debug\CalculateGST.exe
+D:\160905018\IT Lab\Week 3\CalculateGST\CalculateGST\bin\Debug\CalculateGST.pdb
+D:\160905018\IT Lab\Week 3\CalculateGST\CalculateGST\obj\Debug\CalculateGST.exe
+D:\160905018\IT Lab\Week 3\CalculateGST\CalculateGST\obj\Debug\CalculateGST.pdb

@@ -1,0 +1,25 @@
+﻿#header {
+    background-color: darkslategrey;
+    color: white
+}
+#page {
+    margin-left: 200px;
+}
+#main {
+    float: right;
+    width: 100%;
+    background-color: gray
+}
+#left{
+    float: left;
+    width: 200px;
+    margin-left: -200px;
+    background-color: lightgrey
+}
+#clear {
+    clear: both;
+}
+#footer {
+    background-color: darkslategray;
+    color: white;
+}

@@ -1,0 +1,6 @@
+D:\160905018\IT Lab\Week 3\PriceChangeEvent\PriceChangeEvent\bin\Debug\PriceChangeEvent.exe.config
+D:\160905018\IT Lab\Week 3\PriceChangeEvent\PriceChangeEvent\bin\Debug\PriceChangeEvent.exe
+D:\160905018\IT Lab\Week 3\PriceChangeEvent\PriceChangeEvent\bin\Debug\PriceChangeEvent.pdb
+D:\160905018\IT Lab\Week 3\PriceChangeEvent\PriceChangeEvent\obj\Debug\PriceChangeEvent.csprojResolveAssemblyReference.cache
+D:\160905018\IT Lab\Week 3\PriceChangeEvent\PriceChangeEvent\obj\Debug\PriceChangeEvent.exe
+D:\160905018\IT Lab\Week 3\PriceChangeEvent\PriceChangeEvent\obj\Debug\PriceChangeEvent.pdb

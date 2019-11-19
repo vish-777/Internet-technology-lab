@@ -1,0 +1,17 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="q2.master.cs" Inherits="Week6.q2" %>
+
+<!DOCTYPE html>
+
+<html>
+<body style="background-image:url(bg.jpg); background-size:cover">
+    <asp:Label ID="Label1" runat="server" Text="Amazon" Font-Size="XX-Large" /><br />
+    <asp:Image ID="Image1" runat="server" ImageUrl="~/amazon.png" Width="100" Height="100"/><br />
+    <asp:Label ID="Label2" runat="server" Text="Contact at: 88880000" /><br? /><br />
+    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/q2a.aspx">Electronics</asp:HyperLink>
+    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/q2b.aspx">Baggages</asp:HyperLink>
+    <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/q2c.aspx">Offers</asp:HyperLink>
+    <form runat="server" id="form1">
+        <asp:ContentPlaceHolder ID="c1" runat="server" /><br />
+    </form>
+</body>
+</html>

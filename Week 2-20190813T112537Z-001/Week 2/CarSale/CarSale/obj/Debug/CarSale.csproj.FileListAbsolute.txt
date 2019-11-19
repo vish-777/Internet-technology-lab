@@ -1,0 +1,9 @@
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\bin\Debug\CarSale.exe.config
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\bin\Debug\CarSale.exe
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\bin\Debug\CarSale.pdb
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\obj\Debug\CarSale.csprojResolveAssemblyReference.cache
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\obj\Debug\CarSale.Form1.resources
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\obj\Debug\CarSale.Properties.Resources.resources
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\obj\Debug\CarSale.csproj.GenerateResource.Cache
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\obj\Debug\CarSale.exe
+D:\160905018\IT Lab\Week 2\CarSale\CarSale\obj\Debug\CarSale.pdb

@@ -1,0 +1,9 @@
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\bin\Debug\ComputeBonus.exe.config
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\bin\Debug\ComputeBonus.exe
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\bin\Debug\ComputeBonus.pdb
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\obj\Debug\ComputeBonus.csprojResolveAssemblyReference.cache
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\obj\Debug\ComputeBonus.Form1.resources
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\obj\Debug\ComputeBonus.Properties.Resources.resources
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\obj\Debug\ComputeBonus.csproj.GenerateResource.Cache
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\obj\Debug\ComputeBonus.exe
+D:\160905018\IT Lab\Week 2\ComputeBonus\ComputeBonus\obj\Debug\ComputeBonus.pdb

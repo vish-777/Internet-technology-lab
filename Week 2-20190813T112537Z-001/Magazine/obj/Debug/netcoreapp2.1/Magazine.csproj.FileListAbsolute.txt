@@ -1,0 +1,14 @@
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\bin\Debug\netcoreapp2.1\Magazine.deps.json
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\bin\Debug\netcoreapp2.1\Magazine.runtimeconfig.json
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\bin\Debug\netcoreapp2.1\Magazine.runtimeconfig.dev.json
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\bin\Debug\netcoreapp2.1\Magazine.dll
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\bin\Debug\netcoreapp2.1\Magazine.pdb
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.csprojAssemblyReference.cache
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.RazorAssemblyInfo.cache
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.RazorAssemblyInfo.cs
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.AssemblyInfoInputs.cache
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.AssemblyInfo.cs
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.RazorTargetAssemblyInfo.cache
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.dll
+C:\Users\Vishal Vimal.k\Desktop\notes-sem7\it\Week 2-20190813T112537Z-001\Magazine\obj\Debug\netcoreapp2.1\Magazine.pdb

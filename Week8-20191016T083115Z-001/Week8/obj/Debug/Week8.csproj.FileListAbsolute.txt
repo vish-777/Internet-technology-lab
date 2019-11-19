@@ -1,0 +1,13 @@
+C:\Users\OSLAB\Desktop\160905066\Week8\Week8\obj\Debug\Week8.csprojResolveAssemblyReference.cache
+C:\Users\OSLAB\Desktop\160905066\Week8\Week8\bin\Week8.dll.config
+C:\Users\OSLAB\Desktop\160905066\Week8\Week8\bin\Week8.dll
+C:\Users\OSLAB\Desktop\160905066\Week8\Week8\bin\Week8.pdb
+C:\Users\OSLAB\Desktop\160905066\Week8\Week8\obj\Debug\Week8.dll
+C:\Users\OSLAB\Desktop\160905066\Week8\Week8\obj\Debug\Week8.pdb
+C:\Users\Datta\Desktop\Week8-20191015T111729Z-001\Week8\Week8\obj\Debug\Week8.csprojAssemblyReference.cache
+C:\Users\Datta\Desktop\Week8-20191015T111729Z-001\Week8\Week8\obj\Debug\Week8.csproj.CoreCompileInputs.cache
+C:\Users\Datta\Desktop\Week8-20191015T111729Z-001\Week8\Week8\obj\Debug\Week8.dll
+C:\Users\Datta\Desktop\Week8-20191015T111729Z-001\Week8\Week8\obj\Debug\Week8.pdb
+C:\Users\Datta\Desktop\Week8-20191015T111729Z-001\Week8\Week8\bin\Week8.dll.config
+C:\Users\Datta\Desktop\Week8-20191015T111729Z-001\Week8\Week8\bin\Week8.dll
+C:\Users\Datta\Desktop\Week8-20191015T111729Z-001\Week8\Week8\bin\Week8.pdb
